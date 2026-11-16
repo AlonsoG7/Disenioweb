@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 500" role="img" aria-label="Mando de consola">
+  <defs>
+    <linearGradient id="g" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#0b0f19"/><stop offset="1" stop-color="#0e7490"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="500" fill="url(#g)"/>
+  <g transform="translate(700 140)">
+    <path d="M60 40 h300 a90 90 0 0 1 80 130 l-30 60 a50 50 0 0 1 -80 10 l-40 -50 h-160 l-40 50 a50 50 0 0 1 -80 -10 l-30 -60 a90 90 0 0 1 80 -130z" fill="#1e293b" stroke="#67e8f9" stroke-width="5"/>
+    <rect x="70" y="105" width="70" height="22" rx="4" fill="#67e8f9"/>
+    <rect x="94" y="81" width="22" height="70" rx="4" fill="#67e8f9"/>
+    <circle cx="320" cy="90" r="15" fill="#a78bfa"/><circle cx="355" cy="120" r="15" fill="#f472b6"/>
+    <circle cx="285" cy="120" r="15" fill="#34d399"/><circle cx="320" cy="150" r="15" fill="#fbbf24"/>
+  </g>
+</svg>
