@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 500" role="img" aria-label="Personaje pixel art">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#14532d"/><stop offset="1" stop-color="#0b0f19"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="500" fill="url(#g)"/>
+  <g fill="#bbf7d0" opacity=".5">
+    <rect x="660" y="60" width="8" height="8"/><rect x="1100" y="80" width="8" height="8"/>
+    <rect x="980" y="40" width="6" height="6"/><rect x="760" y="120" width="6" height="6"/>
+  </g>
+  <!-- Personaje 8 bits dibujado con cuadrados de 30px -->
+  <g transform="translate(800 110)">
+    <rect x="60" y="0" width="150" height="30" fill="#ef4444"/>
+    <rect x="30" y="30" width="240" height="30" fill="#ef4444"/>
+    <rect x="30" y="60" width="210" height="90" fill="#fcd34d"/>
+    <rect x="150" y="60" width="30" height="30" fill="#0b0f19"/>
+    <rect x="30" y="150" width="210" height="90" fill="#2563eb"/>
+    <rect x="0" y="150" width="30" height="60" fill="#fcd34d"/><rect x="240" y="150" width="30" height="60" fill="#fcd34d"/>
+    <rect x="30" y="240" width="90" height="30" fill="#7c2d12"/><rect x="150" y="240" width="90" height="30" fill="#7c2d12"/>
+  </g>
+  <rect x="0" y="440" width="1200" height="60" fill="#166534"/>
+</svg>
